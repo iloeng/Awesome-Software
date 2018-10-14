@@ -1,6 +1,9 @@
 # Awesome-Software
 
-
+## 播放器
+软件|官网|简述
+:-:|:-|:-
+PotPlayer | [potplayer.daum.net](http://potplayer.daum.net) | 好用的视频播放器
 
 ## 开发环境
 软件|官网|简述
