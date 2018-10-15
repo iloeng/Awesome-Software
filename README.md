@@ -7,7 +7,7 @@
 软件|官网|简述
 :-:|:-|:-
 Code::Blocks | [www.codeblocks.org](http://www.codeblocks.org/) | 很好用的开源C/C++开发工具
-Dev-C++ | [sourceforge.net/projects/orwelldevcpp](https://sourceforge.net/projects/orwelldevcpp/) | 另外两个网站[orwelldevcpp.blogspot.com](http://orwelldevcpp.blogspot.com/)及 <br\>[www.bloodshed.net/dev/devcpp.html](https://www.bloodshed.net/dev/devcpp.html)
+Dev-C++ | [sourceforge.net/projects/orwelldevcpp](https://sourceforge.net/projects/orwelldevcpp/) | 另外两个网站[orwelldevcpp.blogspot.com](http://orwelldevcpp.blogspot.com/)及 <br>[www.bloodshed.net/dev/devcpp.html](https://www.bloodshed.net/dev/devcpp.html)
 
 ### Python
 
