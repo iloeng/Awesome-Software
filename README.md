@@ -13,7 +13,7 @@ Dev-C++ | [sourceforge.net/projects/orwelldevcpp](https://sourceforge.net/projec
 
 软件|官网|简述
 :-:|:-|:-
-Anaconda3 | <www.anaconda.com> | Python科学计算包，下载地址 <https://repo.continuum.io/archive/>
+Anaconda3 | [www.anaconda.com](https://www.anaconda.com) | Python科学计算包，下载地址 <https://repo.continuum.io/archive/>
 
 ## 播放器
 
