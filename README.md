@@ -1,16 +1,24 @@
 # Awesome-Software
 
+## 编程环境
+
+### C/C++
+软件|官网|简述
+:-:|:-|:-
+Code::Blocks | [www.codeblocks.org](http://www.codeblocks.org/) | 很好用的开源C/C++开发工具
+Dev-C++ | [sourceforge.net/projects/orwelldevcpp](https://sourceforge.net/projects/orwelldevcpp/) | 另外两个网站[orwelldevcpp.blogspot.com](http://orwelldevcpp.blogspot.com/)及<br/>[www.bloodshed.net/dev/devcpp.html](https://www.bloodshed.net/dev/devcpp.html)
+
+
+### Python
+软件|官网|简述
+:-:|:-|:-
+Anaconda3 | [www.anaconda.com](https://www.anaconda.com/) | Python科学计算包，下载地址https://repo.continuum.io/archive/
+
 
 ## 播放器
 软件|官网|简述
 :-:|:-|:-
 PotPlayer | [potplayer.daum.net](http://potplayer.daum.net) | 好用的视频播放器
-
-
-## 开发环境
-软件|官网|简述
-:-:|:-|:-
-Anaconda3 | [www.anaconda.com](https://www.anaconda.com/) | Python科学计算包，下载地址https://repo.continuum.io/archive/
 
 
 ## 浏览器
