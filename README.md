@@ -8,6 +8,7 @@
 :-:|:-|:-
 Code::Blocks | [www.codeblocks.org](http://www.codeblocks.org/) | 很好用的开源C/C++开发工具
 Dev-C++ | [sourceforge.net/projects/orwelldevcpp](https://sourceforge.net/projects/orwelldevcpp/) | 另外两个网站[orwelldevcpp.blogspot.com](http://orwelldevcpp.blogspot.com/)及 <br>[www.bloodshed.net/dev/devcpp.html](https://www.bloodshed.net/dev/devcpp.html)
+Visual C++ 6.0 | - | 很经典的开发工具
 
 ### Python
 
@@ -35,8 +36,16 @@ Chrome  | [www.google.com/chrome](https://www.google.com/chrome/) |Google 开源
 Notepad++ | [notepad-plus-plus.org](https://notepad-plus-plus.org/) |开源文本编辑器
 Visual Studio Code | [code.visualstudio.com](https://code.visualstudio.com/) |微软开源文本编辑器
 
+### Markdown 编辑器
+
+软件|官网|简述
+:-:|:-|:-
+GitBook Editor | [https://legacy.gitbook.com/editor](https://legacy.gitbook.com/editor) | gitbook出品编辑器
+
 ## 文件传输
 
 软件|官网|简述
 :-:|:-|:-
 Send Anywhere | [send-anywhere.com](https://send-anywhere.com/) |Estmob Inc 出品的跨设备文件传输，支持分享和P2P方式
+Cute HTTP File Server(CHFS) | [http://iscute.cn/chfs](http://iscute.cn/chfs) | 暂无
+HFS | - | 暂无
