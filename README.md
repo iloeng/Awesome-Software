@@ -10,9 +10,16 @@
 
 ### C/C++
 
+#### Code::Blocks
+- 应用名称：Code::Blocks
+- 官方网站：[www.codeblocks.org](http://www.codeblocks.org/) 
+- 优点:
+    - 开源软件，免费使用
+- 缺点
+    - 调试功能较弱
+
 软件|官网|简述
 :-:|:-|:-
-Code::Blocks | [www.codeblocks.org](http://www.codeblocks.org/) | 很好用的开源C/C++开发工具
 Dev-C++ | [sourceforge.net/projects/orwelldevcpp](https://sourceforge.net/projects/orwelldevcpp/) | 另外两个网站[orwelldevcpp.blogspot.com](http://orwelldevcpp.blogspot.com/)及 <br>[www.bloodshed.net/dev/devcpp.html](https://www.bloodshed.net/dev/devcpp.html)
 Visual C++ 6.0 | - | 很经典的开发工具
 
